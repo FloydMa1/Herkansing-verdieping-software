@@ -42,7 +42,7 @@ Het concept werd in een 3D wereld gebruikt waardoor de engine Processing niet de
 - Een nieuwe engine ontdekken en leren.
 
 ## Planning 
-Floyd Lehman:     https://goo.gl/GyHZgS<br>
+Floyd Lehman:     https://docs.google.com/spreadsheets/d/1VWTEurF4i5dGj5gKAnhIWyhOYYAGTFey62oGhEZh7yA/edit?usp=sharing<br>
 
 ## Bronnen
 - [HTC Vive](https://www.vive.com/eu/)
